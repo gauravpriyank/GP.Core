@@ -1,0 +1,13 @@
+D:\C\git_personal\RateHighway.Core\RateHighway.Logger\bin\Debug\GP.Logger.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Logger\bin\Debug\GP.Logger.pdb
+D:\C\git_personal\RateHighway.Core\RateHighway.Logger\bin\Debug\log4net.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Logger\bin\Debug\log4net.xml
+D:\C\git_personal\RateHighway.Core\RateHighway.Logger\obj\Debug\GP.Logger.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Logger\obj\Debug\GP.Logger.pdb
+D:\C\git_personal\GP.Core\GP.Logger\bin\Debug\GP.Logger.dll
+D:\C\git_personal\GP.Core\GP.Logger\bin\Debug\GP.Logger.pdb
+D:\C\git_personal\GP.Core\GP.Logger\bin\Debug\log4net.dll
+D:\C\git_personal\GP.Core\GP.Logger\bin\Debug\log4net.xml
+D:\C\git_personal\GP.Core\GP.Logger\obj\Debug\GP.Logger.csprojResolveAssemblyReference.cache
+D:\C\git_personal\GP.Core\GP.Logger\obj\Debug\GP.Logger.dll
+D:\C\git_personal\GP.Core\GP.Logger\obj\Debug\GP.Logger.pdb

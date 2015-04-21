@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Core.Data.EntityFramework", "GP.Core.Data.EntityFramework\GP.Core.Data.EntityFramework.csproj", "{DDD7FACC-0386-428A-B78E-B92A08C1C454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Logger", "GP.Logger\GP.Logger.csproj", "{7360D0DE-0B4B-4BDB-829F-C68BB2596E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Core", "GP.Core\GP.Core.csproj", "{05F6646E-F19A-4834-B4FD-EE1E090A4222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Core.ExceptionHandling.EntLib", "GP.Core.ExceptionHandling\GP.Core.ExceptionHandling.EntLib.csproj", "{22DC043B-65AC-4486-91F0-E78CC1236983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Core.Test", "GP.Core.Test\GP.Core.Test.csproj", "{3989D290-4685-4EAE-9013-C282E5E10179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Core.Logging.EntLib", "GP.Core.Logging.EntLib\GP.Core.Logging.EntLib.csproj", "{9FB68FF8-0C8E-4480-A585-7FA25D0F6C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP.Common", "GP.Common\GP.Common.csproj", "{D19D64F8-C423-4306-9308-660144764401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD7FACC-0386-428A-B78E-B92A08C1C454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD7FACC-0386-428A-B78E-B92A08C1C454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD7FACC-0386-428A-B78E-B92A08C1C454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD7FACC-0386-428A-B78E-B92A08C1C454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7360D0DE-0B4B-4BDB-829F-C68BB2596E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7360D0DE-0B4B-4BDB-829F-C68BB2596E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7360D0DE-0B4B-4BDB-829F-C68BB2596E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7360D0DE-0B4B-4BDB-829F-C68BB2596E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F6646E-F19A-4834-B4FD-EE1E090A4222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F6646E-F19A-4834-B4FD-EE1E090A4222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F6646E-F19A-4834-B4FD-EE1E090A4222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F6646E-F19A-4834-B4FD-EE1E090A4222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DC043B-65AC-4486-91F0-E78CC1236983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DC043B-65AC-4486-91F0-E78CC1236983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DC043B-65AC-4486-91F0-E78CC1236983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DC043B-65AC-4486-91F0-E78CC1236983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3989D290-4685-4EAE-9013-C282E5E10179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3989D290-4685-4EAE-9013-C282E5E10179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3989D290-4685-4EAE-9013-C282E5E10179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3989D290-4685-4EAE-9013-C282E5E10179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB68FF8-0C8E-4480-A585-7FA25D0F6C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB68FF8-0C8E-4480-A585-7FA25D0F6C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB68FF8-0C8E-4480-A585-7FA25D0F6C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB68FF8-0C8E-4480-A585-7FA25D0F6C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19D64F8-C423-4306-9308-660144764401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19D64F8-C423-4306-9308-660144764401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19D64F8-C423-4306-9308-660144764401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19D64F8-C423-4306-9308-660144764401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35;packages\Unity.Interception.2.1.505.2\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.ExceptionHandling.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Logging.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Logging.5.0.505.1\lib\NET35;packages\EnterpriseLibrary.ExceptionHandling.Logging.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Data.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Logging.Database.5.0.505.0\lib\NET35
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.Logging.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.Database.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

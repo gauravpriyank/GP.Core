@@ -1,0 +1,6 @@
+D:\RMLiteReviewedCode\RateHighway.Core\RateHighway.RMLite.Common\bin\Debug\RateHighway.RMLite.Common.dll.config
+D:\RMLiteReviewedCode\RateHighway.Core\RateHighway.RMLite.Common\bin\Debug\RateHighway.RMLite.Common.dll
+D:\RMLiteReviewedCode\RateHighway.Core\RateHighway.RMLite.Common\bin\Debug\RateHighway.RMLite.Common.pdb
+D:\RMLiteReviewedCode\RateHighway.Core\RateHighway.RMLite.Common\bin\Debug\EmitMapper.dll
+D:\RMLiteReviewedCode\RateHighway.Core\RateHighway.RMLite.Common\obj\Debug\RateHighway.RMLite.Common.dll
+D:\RMLiteReviewedCode\RateHighway.Core\RateHighway.RMLite.Common\obj\Debug\RateHighway.RMLite.Common.pdb

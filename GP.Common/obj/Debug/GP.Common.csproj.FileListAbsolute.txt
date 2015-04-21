@@ -1,0 +1,11 @@
+D:\C\git_personal\RateHighway.Core\RateHighway.Common\bin\Debug\GP.Common.dll.config
+D:\C\git_personal\RateHighway.Core\RateHighway.Common\bin\Debug\GP.Common.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Common\bin\Debug\GP.Common.pdb
+D:\C\git_personal\RateHighway.Core\RateHighway.Common\obj\Debug\GP.Common.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Common\obj\Debug\GP.Common.pdb
+D:\C\git_personal\GP.Core\GP.Common\bin\Debug\GP.Common.dll.config
+D:\C\git_personal\GP.Core\GP.Common\bin\Debug\GP.Common.dll
+D:\C\git_personal\GP.Core\GP.Common\bin\Debug\GP.Common.pdb
+D:\C\git_personal\GP.Core\GP.Common\obj\Debug\GP.Common.csprojResolveAssemblyReference.cache
+D:\C\git_personal\GP.Core\GP.Common\obj\Debug\GP.Common.dll
+D:\C\git_personal\GP.Core\GP.Common\obj\Debug\GP.Common.pdb

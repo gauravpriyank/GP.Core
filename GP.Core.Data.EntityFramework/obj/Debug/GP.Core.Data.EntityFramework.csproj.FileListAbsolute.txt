@@ -1,0 +1,13 @@
+D:\C\git_personal\RateHighway.Core\RateHighway.Core.Data.EntityFramework\bin\Debug\GP.Core.Data.EntityFramework.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Core.Data.EntityFramework\bin\Debug\GP.Core.Data.EntityFramework.pdb
+D:\C\git_personal\RateHighway.Core\RateHighway.Core.Data.EntityFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Core.Data.EntityFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\C\git_personal\RateHighway.Core\RateHighway.Core.Data.EntityFramework\obj\Debug\GP.Core.Data.EntityFramework.dll
+D:\C\git_personal\RateHighway.Core\RateHighway.Core.Data.EntityFramework\obj\Debug\GP.Core.Data.EntityFramework.pdb
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\bin\Debug\GP.Core.Data.EntityFramework.dll
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\bin\Debug\GP.Core.Data.EntityFramework.pdb
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\obj\Debug\GP.Core.Data.EntityFramework.csprojResolveAssemblyReference.cache
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\obj\Debug\GP.Core.Data.EntityFramework.dll
+D:\C\git_personal\GP.Core\GP.Core.Data.EntityFramework\obj\Debug\GP.Core.Data.EntityFramework.pdb
